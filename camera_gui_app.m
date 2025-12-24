@@ -197,4 +197,5 @@ function camera_gui_app
             lblStatus.Text = "Success";
         end
     end
+
 end
